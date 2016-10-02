@@ -1,0 +1,7 @@
+#Mon Oct 03 00:04:16 JST 2016
+base.0=C\:\\Users\\Yasuaki\\AndroidStudioProjects\\ConvertActToSwipeFragment\\MiwokTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aee236dfe34ff296447f20238bab2bf7856cae86
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Yasuaki\\AndroidStudioProjects\\ConvertActToSwipeFragment\\MiwokTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cd7bc271d948193856bc980e0e022ea1d79869e6\\classes.dex
+base.1=C\:\\Users\\Yasuaki\\AndroidStudioProjects\\ConvertActToSwipeFragment\\MiwokTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cd7bc271d948193856bc980e0e022ea1d79869e6
+file.0=C\:\\Users\\Yasuaki\\AndroidStudioProjects\\ConvertActToSwipeFragment\\MiwokTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aee236dfe34ff296447f20238bab2bf7856cae86\\classes.dex
